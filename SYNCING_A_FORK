@@ -1,0 +1,6 @@
+# ensure that the command `git remote -v` shows both our repository (origin) and 
+# the upstream/master repo
+https://help.github.com/articles/fork-a-repo/
+
+# then proceeed here to update your local copy of master
+https://help.github.com/articles/syncing-a-fork/
